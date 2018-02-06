@@ -51,7 +51,7 @@ Well, at its sole discretion, shares audit reports, including its HITRUST report
 
 The following process is used to request audit reports:
 
-1. Email is sent to compliance-reports@well.com. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to compliance-reports@wellapp.com. In the email, please specify the type of report being requested and any required timelines for the report.
 2. Well staff will log an Issue with the details of the request into the Well Compliance Review Activities Project on JIRA. JIRA is used to track requests' status and outcomes.
 3. Well will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Well will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Well staff will move the JIRA Issue to "Under Review".

@@ -119,7 +119,7 @@ All workstations at Well are company owned, and all are laptop Apple products ru
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 7. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Well Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.well.com) and have completed this training (https://training.well.com/). Please contact us if you have problems with this - privacy@well.com.*
+9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Well Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.wellapp.com) and have completed this training (https://training.wellapp.com/). Please contact us if you have problems with this - privacy@wellapp.com.*
 
 ## 7.9 Wireless Access Use
 
@@ -167,7 +167,7 @@ Well does not use paper records for any sensitive information. Use of paper for 
 10. All passwords used in configuration scripts are secured and encrypted.
 11. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 12. In cases where a user has forgotten their password, the following procedure is used to reset the password.
-    * The user submits a password reset request to password-reset@well.com. The request should include the system to which the user has lost access and needs the password reset.
+    * The user submits a password reset request to password-reset@wellapp.com. The request should include the system to which the user has lost access and needs the password reset.
     * An administrator with password reset privileges is notified and connects directly with the user requesting the password reset.
     * The administrator verifies the identity of the user either in-person or through a separate communication channel such as phone or Slack.
     * Once verified, the administrator resets the password.

@@ -21,7 +21,7 @@ Well is committed to ensuring all workforce members actively address security an
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
    * Upon completion of training, workforce members complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
-   * Current Well training is hosted at [training.well.com](https://training.well.com/).
+   * Current Well training is hosted at [training.wellapp.com](https://training.wellapp.com/).
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 3. The Well Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
@@ -30,9 +30,9 @@ Well is committed to ensuring all workforce members actively address security an
 4. Well does not allow mobile devices to connect to any of its production networks.
 5. All workforce members are educated about the approved set of tools to be installed on workstations.
 6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Well and its Customers and Partners.
-   * Current Well training is hosted at [training.well.com](https://training.well.com/).
+   * Current Well training is hosted at [training.wellapp.com](https://training.wellapp.com/).
 7. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
-8. All Well-purchased and -owned computers are to display this message at login and when the computer is unlocked: *This computer is owned by Well Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.well.com) and have completed this training (https://training.well.com). Please contact us if you have problems with this - privacy@well.com*.
+8. All Well-purchased and -owned computers are to display this message at login and when the computer is unlocked: *This computer is owned by Well Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.wellapp.com) and have completed this training (https://training.wellapp.com). Please contact us if you have problems with this - privacy@wellapp.com*.
 9. Employees may only use Well-purchased and -owned workstations for accessing production systems with access to ePHI data.
    * Any workstations used to access production systems must be configured as prescribed in [§7.8](#7.8-employee-workstation-use).
    * Any workstations used to access production systems must have virus protection software installed, configured, and enabled.

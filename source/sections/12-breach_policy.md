@@ -96,5 +96,5 @@ Sincerely,
 
 Travis Good, MD  
 Co-founder - Well Health, Inc.  
-travis@well.com  
+travis@wellapp.com  
 303-351-2640
